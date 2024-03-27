@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\bin\Debug\net8.0\DesafioRocket1.exe
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\bin\Debug\net8.0\DesafioRocket1.deps.json
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\bin\Debug\net8.0\DesafioRocket1.runtimeconfig.json
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\bin\Debug\net8.0\DesafioRocket1.dll
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\bin\Debug\net8.0\DesafioRocket1.pdb
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\obj\Debug\net8.0\DesafioRocket1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\obj\Debug\net8.0\DesafioRocket1.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\obj\Debug\net8.0\DesafioRocket1.AssemblyInfo.cs
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\obj\Debug\net8.0\DesafioRocket1.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\obj\Debug\net8.0\DesafioRocket1.dll
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\obj\Debug\net8.0\refint\DesafioRocket1.dll
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\obj\Debug\net8.0\DesafioRocket1.pdb
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\obj\Debug\net8.0\DesafioRocket1.genruntimeconfig.cache
+C:\Users\marin\source\repos\DesafioRocket1\DesafioRocket1\obj\Debug\net8.0\ref\DesafioRocket1.dll
